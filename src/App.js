@@ -23,3 +23,5 @@ function App() {
   );
 }
 export default App;
+
+// add the details page of the user and work with this one 
